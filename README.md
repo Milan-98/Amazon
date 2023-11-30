@@ -23,7 +23,7 @@ In this Project I learned About CSS Animation,hover properties, Positioning  in 
 Faced Challenges like properties name of css to tailwild and in this tailwind css documentation help me a lot. 
 ## Documentation
 
-[Project Link](https://amazon-prime-india.netlify.app)
+[Project Link is not working currently](https://amazon-prime-india.netlify.app)
 
 
 ## Feedback
